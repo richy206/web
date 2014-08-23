@@ -1,0 +1,29 @@
+@charset:utf-8;
+
+body {
+    background-color:FFFFCC;
+    
+}
+
+#data-3_1_1 {
+    width:1000px ;
+    text-align: center;
+    margin:;
+    color: ;
+    border:2px solid gray ;
+}
+
+tr {
+    border:2px solid gray ;
+}
+
+td {
+
+    border:2px solid gray ;
+}
+
+
+.pictur-ch {
+    width:200px ;
+    height:200px ;
+}
